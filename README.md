@@ -7,17 +7,17 @@
 
 <p align="left">
 
-<a href="https://stashy.tools">
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Fstashy.tools&style=for-the-badge">
+<a href="https://coolshit.dev">
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fcoolshit.dev&style=for-the-badge">
   </a>
 
   <a href="https://discord.gg/3C5tdD6VBg">
   <img src="https://img.shields.io/discord/1226085166339067905?style=for-the-badge&label=discord&color=5865f2">
   </a>
 
-  <img src="https://img.shields.io/github/followers/stashytools?style=for-the-badge&color=g">
+  <img src="https://img.shields.io/github/followers/buitlbysam?style=for-the-badge&color=g">
 
-  <img src="https://img.shields.io/github/stars/stashytools?style=for-the-badge&color=ffe100">
+  <img src="https://img.shields.io/github/stars/buitlbysam?style=for-the-badge&color=ffe100">
 
   <!--
   <img src="https://img.shields.io/github/commit-activity/t/stashytools/stashy.tools?style=for-the-badge&color=00aaff"> -->
@@ -30,9 +30,9 @@
 <a href="#macropower-title"><img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" /></a>
 -->
 
-- 🌐 **[stashy.tools]** is a website for all my random things, from timers, to whole games!
-- 🇦🇺 I'm a single developer from Australia, just  coding in my free time!
-- 💬 &nbsp;Connect with me on **[Discord]**. You can also use the **[Contact]** page.
+- 🌐 **[coolshit.dev]** is a website for me and my friend to create random things, most times bullshit, sometimes useful!
+- 🇦🇺 I'm a single developer from Australia, just coding in my free time!
+- 💬 &nbsp;Connect with me on **[Discord]**.
 
 <br>
 
@@ -74,9 +74,9 @@
 
 <div>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/stashytools/stashytools/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/stashytools/stashytools/blob/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Animation" src="https://github.com/stashytools/stashytools/blob/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/buitlbysam/buitlbysam/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/butilbysam/buitlbysam/blob/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://github.com/buitlbysam/butilbysam/blob/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -86,6 +86,5 @@
 
 <!-- links -->
 
-[stashy.tools]: https://stashy.tools/ "my own projects"
-[Contact]: https://stashy.tools/contact" "contact and feedback"
-[Discord]: https://discord.com/posts/ "My Blog"
+[coolshit.dev]: https://coolshit.dev/ "my own projects"
+[Discord]: https://discord.com/V8vWx2g82h/ "My Blog"
